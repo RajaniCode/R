@@ -13,7 +13,14 @@ Credits/rubygems.org.svg?raw=true)](https://rubygems.org)
 Credits/rubyonrails.org.svg?raw=true)](https://rubyonrails.org)  
 [![image](
 Credits/nodejs.org.svg?raw=true)](https://nodejs.org)  
-
+[![image](
+Credits/npmjs.org.svg?raw=true)](https://npmjs.org)  
+[![image](
+Credits/javascript.com.svg?raw=true)](https://javascript.com)  
+[![image](
+Credits/developer.mozilla.org.svg?raw=true)](https://developer.mozilla.org)    
+[![image](
+Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com)  
 
 [ruby-lang.org](https://ruby-lang.org/)  
 [rubyonrails.org](https://rubyonrails.org/)  
