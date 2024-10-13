@@ -25,12 +25,3 @@ Credits/developer.mozilla.org.svg?raw=true)](https://developer.mozilla.org)
 Credits/getbootstrap.com.svg?raw=true)](https://getbootstrap.com)  
 [![image](
 Credits/Ruby-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/ruby)  
-
-
-[ruby-lang.org](https://ruby-lang.org/)  
-[rubyonrails.org](https://rubyonrails.org/)  
-[rubygems.org](https://rubygems.org/)  
-[nodejs.org](https://nodejs.org/)  
-[developer.mozilla.org](https://developer.mozilla.org/)  
-[getbootstrap.com](https://getbootstrap.com/)  
-[rules.sonarsource.com/ruby](https://rules.sonarsource.com/ruby/)
