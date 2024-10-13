@@ -16,7 +16,7 @@ Credits/guides.rubyonrails.org.svg?raw=true)](https://guides.rubyonrails.org)
 [![image](
 Credits/nodejs.org.svg?raw=true)](https://nodejs.org)  
 [![image](
-Credits/npmjs1.com.svg?raw=true)](https://npmjs.com)  
+Credits/npmjs.com.svg?raw=true)](https://npmjs.com)  
 [![image](
 Credits/javascript.com.svg?raw=true)](https://javascript.com)  
 [![image](
