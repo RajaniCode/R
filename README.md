@@ -12,6 +12,8 @@ Credits/rubygems.org.svg?raw=true)](https://rubygems.org)
 [![image](
 Credits/rubyonrails.org.svg?raw=true)](https://rubyonrails.org)  
 [![image](
+Credits/guides.rubyonrails.org.svg?raw=true)](https://guides.rubyonrails.org) 
+[![image](
 Credits/nodejs.org.svg?raw=true)](https://nodejs.org)  
 [![image](
 Credits/npmjs.org.svg?raw=true)](https://npmjs.org)  
