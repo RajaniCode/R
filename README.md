@@ -12,9 +12,9 @@ Credits/rubygems.org.svg?raw=true)](https://rubygems.org)
 [![image](
 Credits/rubyonrails.org.svg?raw=true)](https://rubyonrails.org)  
 [![image](
-Credits/guides.rubyonrails.org.svg?raw=true)](https://guides.rubyonrails.org) 
+Credits/guides.rubyonrails.org.svg?raw=true)](https://guides.rubyonrails.org)  
 [![image](
-Credits/nodejs.org.svg?raw=true)](https://nodejs.org)  
+Credits/nodejs.com.svg?raw=true)](https://nodejs.com)  
 [![image](
 Credits/npmjs.org.svg?raw=true)](https://npmjs.org)  
 [![image](
