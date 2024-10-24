@@ -20,11 +20,9 @@ Credits/npmjs.com.svg)](https://npmjs.com/)
 [![image](
 Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)    
 [![image](
-Credits/getbootstrap.com.svg)](https://getbootstrap.com/)  
-[![image](
+Credits/getbootstrap.com.svg)](https://getbootstrap.com/)<!--[![image](
 Credits/jetbrains.com.svg)](https://jetbrains.com/)  
 [![image](
-Credits/RubyMine-jetbrains.com.svg)](https://jetbrains.com/ruby/)  
-
+Credits/RubyMine-jetbrains.com.svg)](https://jetbrains.com/ruby/)-->  
 [![image](
 Credits/Ruby-static-code-analysis-rules.sonarsource.com.svg)](https://rules.sonarsource.com/ruby/)
